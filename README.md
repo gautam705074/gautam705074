@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gautam Kumar
 
-<img align="right" src="https://komarev.com/ghpvc/?username=gautam705074&color=blue&style=flat-square" alt="Profile Views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=gautam705074&color=00FF66&style=flat-square" alt="Profile Views" />
 
 🛡️ **Cybersecurity Enthusiast & Ethical Hacker** | Passionate about Web Security, Penetration Testing, and Securing Systems. 
 
@@ -35,12 +35,21 @@
 
 ---
 
+### 💻 Live Hacker Terminal Activity:
+<p align="center">
+  <a href="https://github.com/gautam705074">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=18&duration=4000&pause=500&color=00FF66&center=true&vCenter=true&width=600&lines=Scanning+Target+Networks...+[OK];Running+Vulnerability+Assessment...+[SECURE];Exploiting+Web+Apps+via+Burp+Suite...+[SUCCESS];Securing+Digital+Infrastructure...+[ACTIVE]" alt="Terminal Activity" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats & Activity:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" />
 </p>
 
-<!-- 🐍 Running Snake Animation Graph -->
+<!-- 🐍 Running Snake Animation Graph (Old Snake Kept Safe) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
