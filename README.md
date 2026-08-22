@@ -94,7 +94,22 @@
 * **[TryHackMe & HackTheBox Labs](https://github.com/gautam705074/Ethical-Hacking-Practice):** Documented write-ups, room walkthroughs, and privilege escalation practice from THM and HTB platforms.
 * **[Gautam-Toolkit1-](https://github.com/gautam705074/Gautam-Toolkit1-) & [-gautam-mobile-suite](https://github.com/gautam705074/-gautam-mobile-suite):** Specialized multi-purpose cybersecurity utilities and mobile security assessment tools.
 
+---
+## 🚀 My Security & Development Projects
 
+| Project Name | Description & Tools Used | Repository Link |
+| :--- | :--- | :--- |
+| **gautam-nmap-pro** | Advanced network mapper wrapper and automated scanning script for reconnaissance. | [View Repo](https://github.com/gautam705074/gautam-nmap-pro) |
+| **Gautam-Toolkit1** | Custom collection of penetration testing utilities and automation scripts. | [View Repo](https://github.com/gautam705074/Gautam-Toolkit1-) |
+| **gautam-ultimate-lab** | Comprehensive home lab setup guide and scripts for ethical hacking practice. | [View Repo](https://github.com/gautam705074/gautam-ultimate-lab) |
+| **PortSwigger-Labs** | Solutions, notes, and automation scripts for PortSwigger Web Security Academy labs. | [View Repo](https://github.com/gautam705074/PortSwigger-Labs) |
+| **Ethical-Hacking-Practice** | Practice scripts, challenges, and notes covering various VAPT concepts. | [View Repo](https://github.com/gautam705074/Ethical-Hacking-Practice) |
+| **call-forwarding-project** | Telephony and telecom security testing / configuration project. | [View Repo](https://github.com/gautam705074/call-forwarding-project) |
+| **wifi-cracker-pro** | Wireless network security assessment and packet capture toolkit. | [View Repo](https://github.com/gautam705074/wifi-cracker-pro) |
+| **gautam-iot-cctv-suite** | Security assessment and reconnaissance tool focused on IoT and CCTV devices. | [View Repo](https://github.com/gautam705074/gautam-iot-cctv-suite) |
+| **gautam-osint-tool** | Open Source Intelligence (OSINT) gathering and information collection script. | [View Repo](https://github.com/gautam705074/gautam-osint-tool) |
+
+---
 
 ### 📊 GitHub Stats & Activity:
 <p align="center">
