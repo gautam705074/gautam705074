@@ -48,7 +48,6 @@
 
 ---
 ### 🛠️ Tech Stack & Skills
-
 <p align="left">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -64,6 +63,24 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <!-- Pentesting -->
+  <img src="https://img.shields.io/badge/Pentesting-FF4500?style=for-the-badge&logo=security&logoColor=white" alt="Pentesting" />
+  <!-- Vulnerability Assessment -->
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-D32F2F?style=for-the-badge&logo=databricks&logoColor=white" alt="Vulnerability Assessment" />
+  <!-- Web App Security -->
+  <img src="https://img.shields.io/badge/Web%20App%20Security-2E7D32?style=for-the-badge&logo=globe&logoColor=white" alt="Web App Security" />
+  <!-- Pentesting Assessment -->
+  <img src="https://img.shields.io/badge/Pentesting%20Assessment-6A1B9A?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Pentesting Assessment" />
+  <!-- Network Security -->
+  <img src="https://img.shields.io/badge/Network%20Security-0277BD?style=for-the-badge&logo=wifi&logoColor=white" alt="Network Security" />
+  <!-- Ethical Hacking -->
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-B71C1C?style=for-the-badge&logo=gnomedebug&logoColor=white" alt="Ethical Hacking" />
+  <!-- Burp Suite -->
+  <img src="https://img.shields.io/badge/Burp%20Suite-F3702A?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <!-- Wireshark -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
