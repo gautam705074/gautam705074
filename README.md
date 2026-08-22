@@ -21,6 +21,13 @@
 
 ---
 
+### 🛡️ Cybersecurity Expertise & Competencies
+* **Security Frameworks & Standards:** OWASP Top 10
+* **Methodologies:** OSINT & Security Research, Proof of Concept (PoC) Development
+* **Reporting:** Executive & Technical Security Reporting
+
+---
+
 ### 💻 Tech Stack & Tools
 * **Cybersecurity & Scanning:** Nmap, Burp Suite, Metasploit, Nessus, Acunetix, SQLMap, Wireshark, OWASP ZAP, Nikto, Hydra, WPScan, DirSearch, Gobuster, Dalfox
 * **Scripting & Automation:** Python, Bash, HTML/CSS
@@ -29,15 +36,19 @@
 
 ---
 
-### 🚀 Featured Live Projects & Labs:
-- 🧪 **[PortSwigger Labs](https://github.com/gautam705074/PortSwigger-Labs):** Documenting active solutions for web security academy labs (SQLi, XSS, CSRF, etc.).
-- 🛡️ **[Ethical Hacking Practice](https://github.com/gautam705074/Ethical-Hacking-Practice):** Practical penetration testing labs and exploit practice.
+### 🧪 Featured Live Projects & Labs
 
----
-
+* **[PortSwigger-Labs](https://github.com/gautam705074/PortSwigger-Labs):** Active documentation and solutions for Web Security Academy labs (SQLi, XSS, CSRF, etc.).
+* **[Ethical-Hacking-Practice](https://github.com/gautam705074/Ethical-Hacking-Practice):** A collection of hands-on penetration testing labs, vulnerability assessments, and step-by-step exercises.
+* **[gautam-nmap-pro](https://github.com/gautam705074/gautam-nmap-pro):** Professional automated Nmap network scanner with custom HTML reporting.
+* **[gautam-osint-tool](https://github.com/gautam705074/gautam-osint-tool):** Complete Python-based email OSINT tool for reconnaissance and intelligence gathering.
+* **[wifi-cracker-pro](https://github.com/gautam705074/wifi-cracker-pro):** Python script focused on wireless network security assessments and auditing.
+* **[gautam-iot-cctv-suite](https://github.com/gautam705074/gautam-iot-cctv-suite):** Complete IoT and CCTV security testing framework for vulnerability analysis.
+* **[call-forwarding-project](https://github.com/gautam705074/call-forwarding-project):** Complete Call Forwarding & Tracking System built with HTML.
+* **[Gautam-Toolkit1-](https://github.com/gautam705074/Gautam-Toolkit1-) & [-gautam-mobile-suite](https://github.com/gautam705074/-gautam-mobile-suite):** Specialized multi-purpose cybersecurity utilities and mobile security assessment tools.
 ### 📊 GitHub Stats & Activity:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" />
+  
 </p>
 
 <!-- 🐍 Running Snake Animation Graph -->
@@ -53,5 +64,5 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautam705074&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+  
 </p>a
