@@ -6,13 +6,13 @@
 
 ---
 
+
 <!-- 🚀 Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Ethical+Hacker+%26+Pentester;Solving+PortSwigger+Labs;Exploring+Cyber+Security;Building+Security+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=620&lines=Initializing+Security+Protocols...;Scanning+Target+Networks+via+Nmap...;Executing+Automated+Pentesting+Scripts...;Ethical+Hacker+%26+Pentester;Solving+PortSwigger+Labs;Practicing+TryHackMe+%26+HTB;Exploring+New+Technologies!;Stay+Secure,+Hack+Ethically!" alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
