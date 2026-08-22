@@ -13,7 +13,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=620&lines=Initializing+Security+Protocols...;Scanning+Target+Networks+via+Nmap...;Executing+Automated+Pentesting+Scripts...;Ethical+Hacker+%26+Pentester;Solving+PortSwigger+Labs;Practicing+TryHackMe+%26+HTB;Exploring+New+Technologies!;Stay+Secure,+Hack+Ethically!" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- 🚀 Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=680&lines=Initializing+Security+Protocols...;Scanning+Target+Networks+via+Nmap...;Executing+Automated+Pentesting+Scripts...;Ethical+Hacker+%26+Pentester;Solving+PortSwigger+Labs;Practicing+TryHackMe+and+HackTheBox;Building+Custom+Cybersecurity+Tools;Exploring+New+Technologies!;Stay+Secure,+Hack+Ethically!" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ### 🌐 Connect With Me:
