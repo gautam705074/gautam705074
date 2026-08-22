@@ -1,12 +1,8 @@
-<h1 align="center">
-  👋 Hello World, Welcome to My Profile!
-</h1>
+### Hi there 👋, I'm Gautam Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Gautam;Welcome+to+my+GitHub+profile!;I+build+cool+things+here." alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I+am+passionate+about+coding+and+cybersecurity.;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
-___
-
 ### Hi there 👋, I'm Gautam Kumar
 
 <img align="right" src="https://komarev.com/ghpvc/?username=gautam705074&color=blue&style=flat-square" alt="Profile Views" />
