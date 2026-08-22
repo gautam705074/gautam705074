@@ -13,6 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=680&lines=Initializing+Security+Protocols...;Scanning+Target+Networks+via+Nmap...;Executing+Automated+Pentesting+Scripts...;Ethical+Hacker+%26+Pentester;Solving+PortSwigger+Labs;Practicing+TryHackMe+and+HackTheBox;Building+Custom+Cybersecurity+Tools;Exploring+New+Technologies!;Stay+Secure,+Hack+Ethically!" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ### 🌐 Connect With Me:
@@ -24,6 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
 
 ### 🛡️ Cybersecurity Expertise & Competencies
