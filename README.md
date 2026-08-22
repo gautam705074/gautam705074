@@ -48,9 +48,7 @@
 * **[Ethical-Hacking-Practice](https://github.com/gautam705074/Ethical-Hacking-Practice):** A collection of hands-on penetration testing labs, vulnerability assessments, and step-by-step exercises.
 * **[gautam-nmap-pro](https://github.com/gautam705074/gautam-nmap-pro):** Professional automated Nmap network scanner with custom HTML reporting.
 * **[gautam-osint-tool](https://github.com/gautam705074/gautam-osint-tool):** Complete Python-based email OSINT tool for reconnaissance and intelligence gathering.
-* **[wifi-cracker-pro](https://github.com/gautam705074/wifi-cracker-pro):** Python script focused on wireless network security assessments and auditing.
-* **[gautam-iot-cctv-suite](https://github.com/gautam705074/gautam-iot-cctv-suite):** Complete IoT and CCTV security testing framework for vulnerability analysis.
-* **[call-forwarding-project](https://github.com/gautam705074/call-forwarding-project):** Complete Call Forwarding & Tracking System built with HTML.
+* **[TryHackMe & HackTheBox Labs](https://github.com/gautam705074/Ethical-Hacking-Practice):** Documented write-ups, room walkthroughs, and privilege escalation practice from THM and HTB platforms.
 * **[Gautam-Toolkit1-](https://github.com/gautam705074/Gautam-Toolkit1-) & [-gautam-mobile-suite](https://github.com/gautam705074/-gautam-mobile-suite):** Specialized multi-purpose cybersecurity utilities and mobile security assessment tools.
 
 
