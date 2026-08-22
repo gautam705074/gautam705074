@@ -66,9 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies:
