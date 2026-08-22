@@ -21,11 +21,11 @@
 
 ---
 
-### 💻 Tech Stack & Tools:
-- **Cybersecurity & Hacking:** Burp Suite, Metasploit, Nmap, Wireshark, SQLmap, Dalfox
-- **Operating Systems:** Kali Linux, Ubuntu, Windows
-- **Programming & Scripting:** Python, Bash, HTML/CSS
-- **Version Control:** Git, GitHub
+### 💻 Tech Stack & Tools
+* **Cybersecurity & Scanning:** Nmap, Burp Suite, Metasploit, Nessus, Acunetix, SQLMap, Wireshark, OWASP ZAP, Nikto, Hydra, WPScan, DirSearch, Gobuster, Dalfox
+* **Scripting & Automation:** Python, Bash, HTML/CSS
+* **Platforms & Environments:** Linux (Kali, Ubuntu), Windows, VMware
+* **Collaboration & Utilities:** Postman, Git, GitHub, TCP/IP
 
 ---
 
