@@ -46,14 +46,17 @@
 * **[gautam-iot-cctv-suite](https://github.com/gautam705074/gautam-iot-cctv-suite):** Complete IoT and CCTV security testing framework for vulnerability analysis.
 * **[call-forwarding-project](https://github.com/gautam705074/call-forwarding-project):** Complete Call Forwarding & Tracking System built with HTML.
 * **[Gautam-Toolkit1-](https://github.com/gautam705074/Gautam-Toolkit1-) & [-gautam-mobile-suite](https://github.com/gautam705074/-gautam-mobile-suite):** Specialized multi-purpose cybersecurity utilities and mobile security assessment tools.
+
+
+
 ### 📊 GitHub Stats & Activity:
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" />
 </p>
 
 <!-- 🐍 Running Snake Animation Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gautam705074/gautam705074/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
@@ -64,5 +67,5 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  
-</p>a
+  <img src="https://github-profile-trophy.vercel.app/?username=gautam705074&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+</p>
