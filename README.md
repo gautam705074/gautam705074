@@ -43,18 +43,10 @@
 
 ---
 
-### 📊 GitHub Stats & Activity:
+### 📊 GitHub Stats & Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" />
-</p>
-
-<!-- 🐍 Running Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautam705074/gautam705074/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
