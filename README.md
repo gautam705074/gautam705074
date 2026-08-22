@@ -51,21 +51,21 @@
 
 ### 📊 GitHub Stats & Activity:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautam705074&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gautam's GitHub Stats" />
+  
 </p>
 
 <!-- 🐍 Running Snake Animation Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gautam705074/gautam705074/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam705074&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautam705074&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+  
 </p>
